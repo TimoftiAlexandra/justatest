@@ -13,4 +13,4 @@ script:
   - echo "1RGLuV99JsM++H/htLRAMG94nEFEIsv7ZwGI2uSk"
   - echo TEST
   - echo "AKIAI6E66XXXX4SKIJWA"
-  - echo "I3as/CEqgpXXXxxxXKNQnvDuQ25mxo4KPXR0KgmO" TEST "I3as/CEqgpXXXxxxXKNQnvDuQ25mxo4KPXR0KgmO" TEST "I3as/CEqgpXXXxxxXKNQnvDuQ25mxo4KPXR0KgmO"
+  - echo $STR2  TEST $STR2 TEST $STR1
